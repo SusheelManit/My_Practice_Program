@@ -1,6 +1,6 @@
 int add(int a,int b)
 {
-	\\here code
+	return (a+b);
 }
 
 int sub(int a,int b)
