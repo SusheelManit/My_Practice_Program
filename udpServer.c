@@ -7,7 +7,7 @@
 
 #define MAX_BUF 500
 
-char msg[]="Hello Sachendra tumhari ma ki chut\n";
+char msg[]="Hello Sachendra kaise ho\n";
 char recmsg[MAX_BUF];
 int main(int argc,char** argv)
 {
